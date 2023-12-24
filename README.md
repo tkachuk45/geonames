@@ -1,5 +1,5 @@
 # Сопоставление названий городов
-[ipynb](https://github.com/tkachuk45/geonames/blob/main/geonames/geonames_project.ipynb)
+[ipynb](https://github.com/tkachuk45/geonames/blob/main/geonames_project.ipynb)
 
 ## Описание проекта
 Нужно находить название города максимально похожее на произвольное введеное название. Название должно быть унифицировано по общепринятому стандарту geonames. Решение задачи поможет заказчику улучшить пользовательский опыт при заполнении форм. Все данные должны храниться в БД PostgreSQL.
